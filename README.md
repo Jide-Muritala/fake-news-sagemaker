@@ -2,6 +2,7 @@
 
 This repository contains a fake news detection model developed using BERT and fine-tuned on a labeled dataset of real and fake news articles. 
 The model classifies news articles as "Real" or "Fake."
+
 ​![pic](fake.jpg)
 
 ## Technical Overview
