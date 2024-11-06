@@ -30,5 +30,4 @@ To train the model, run `train_script.py` in SageMaker with the specified parame
 To test new text:
 ```bash
 python test_model.py
-
-
+```
